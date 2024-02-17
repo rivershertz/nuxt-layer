@@ -1,3 +1,3 @@
 export default defineEventHandler(() => {
-  return 'TEST WORKED!';
+  return 'TEST WORKED AND CHANGED!';
 });
